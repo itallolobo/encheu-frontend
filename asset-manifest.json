@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/encheu.com.br/static/css/main.76f62999.css",
-    "main.js": "/encheu.com.br/static/js/main.f30d3eef.js",
-    "static/media/SearchIcon.png": "/encheu.com.br/static/media/SearchIcon.5927b57f066726524235.png",
-    "index.html": "/encheu.com.br/index.html"
+    "main.css": "/static/css/main.76f62999.css",
+    "main.js": "/static/js/main.ca8905d1.js",
+    "static/media/SearchIcon.png": "/static/media/SearchIcon.5927b57f066726524235.png",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.76f62999.css",
-    "static/js/main.f30d3eef.js"
+    "static/js/main.ca8905d1.js"
   ]
 }
