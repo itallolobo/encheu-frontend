@@ -1,0 +1,16 @@
+.FAQ-content{
+    background-color: #40b3db;
+    width: 100%;
+    height: 100%;
+}
+.FAQ-content-section-1{
+    
+    padding-top: 20px;
+
+    margin-top: 0px;
+    background-color: #40b3db;
+}
+
+.faq-row-wrapper{
+    padding: 20px;
+}

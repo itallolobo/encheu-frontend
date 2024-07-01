@@ -1,0 +1,94 @@
+html,
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.Street-Water-Section-1{
+    background-color: #fff;
+    height: 80px;
+    position: relative;
+}
+.Street-Water-Section-1-wave{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
+.Street-Water-Section-2{
+    margin-top: -3px;
+    background-color: #40b3db;
+    position: relative;
+    
+}
+
+
+.Street-Water-Section-2 > h3{
+    padding: 25px;
+    padding-top: 40px;
+    padding-bottom: 5px;
+
+    margin: 0;
+    font-size: xx-large;
+    color: #fff;
+    font-weight: 700;
+}
+
+.Street-Water-Section-2 > img{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    width: 40vh;
+    height: auto;
+    border-radius: 15px;
+
+
+}
+
+.Street-Water-Section-2 > h4{
+    padding: 25px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    margin: 0;
+    font-size: x-large;
+    line-height: 1.4;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+
+.Street-Water-History{
+    margin-top: -3px;
+    background-color: #319FBC;
+    position: relative;
+    min-height: 45vh;
+}
+
+.Street-Water-History-Section-1{
+    padding-bottom: 50px;
+}
+
+.Street-Water-History-Section-1 > h3{
+    padding: 25px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+    margin: 0;
+    font-size: x-large;
+    color: #fff;
+    font-weight: 700;
+
+}
+
+.Street-Water-History-Section-1 > h4{
+    padding: 25px;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    margin: 0;
+    font-size: x-large;
+    line-height: 1.4;
+    color: #fff;
+    font-weight: 300;
+}

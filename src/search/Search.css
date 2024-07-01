@@ -1,0 +1,104 @@
+html,
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.Search-Water-Section-1{
+    background-color: #fff;
+    height: 80px;
+    position: relative;
+}
+.Search-Water-Section-1-wave{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
+.Search-Water-Section-2{
+    margin-top: -10px;
+    background-color: #40b3db;
+    position: relative;
+    
+}
+
+
+.Search-Water-Section-2 > h3{
+    padding: 25px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+
+    margin: 0;
+    font-size: x-large;
+    color: #fff;
+    font-weight: 500;
+}
+
+
+.Search-Water-Section-2-bar{
+    position: relative;
+    margin: 30px;
+    display: grid;
+    justify-content: center;
+    padding-top: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Search-Water-Section-2-bar-wrapper{
+    position: relative;
+
+
+    width: max-content;
+}
+.Search-Water-Section-2-bar-input{
+font-weight: 400;
+width: 30vh !important;
+
+background-color: rgb(255, 255, 255) !important;
+border-radius: 10px !important;
+padding-left: 15px !important;
+padding-right: 50px !important;
+border-bottom: 0px;
+border-bottom: 0px !important;
+}
+.Search-Water-Section-2-bar-input::placeholder{
+    color: #8f8f8f !important;
+}
+.Search-Water-Section-2-bar-icon{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top : 3px;
+    right: 10px;
+}
+
+
+
+.Search-water-results{
+    margin-top: -3px;
+    background-color: #319FBC;
+    position: relative;
+    min-height: 83vh;
+}
+
+.Search-water-results-list{
+    padding-top: 20px;
+}
+
+
+
+.Search-water-hot-result{
+    padding: 25px;
+    padding-top: 0;
+    padding-bottom: 25px;
+    
+    
+}
+.Search-water-hot-result > h4{
+    margin: 0;
+    font-size: x-large;
+    color: #fff;
+    font-weight: 400;
+}

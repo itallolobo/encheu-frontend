@@ -1,0 +1,41 @@
+
+
+.fade-out {
+  animation: fade-out 1s forwards;
+}
+@keyframes fade-out {
+  from {
+  	opacity: 1;
+  }
+  to {
+ 	opacity: 0;
+   display:none;
+   z-index: -1;
+
+  }
+}
+
+
+.Load-Section-1-River{
+animation: 8s  ease-in-out movement infinite;
+}
+
+
+@keyframes movement {
+  0% {
+    top: 60px;
+  }
+  25% {
+    top: 40px;
+  }
+  50% {
+    top: 25px;
+  }
+  80% {
+    top: 70px;
+  }
+ 
+  100% {
+    top: 60px;
+  }
+}

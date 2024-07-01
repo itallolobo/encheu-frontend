@@ -1,0 +1,83 @@
+.Transition{
+    z-index: 2;
+    height: 200vh;
+    width: 100%;
+    position: fixed;
+    top : 100vh;
+    left: 0;
+}
+.Transition-Reversed{
+    top : -30vh;
+}
+.Transition-Section-1{
+    height: 100%;
+    background-color: #196f8b;
+    margin-top: -10px;
+}
+
+.Animation{
+    animation: slideInOld 1.5s ease-in-out forwards;
+}
+
+.Animation-Reverse{
+    animation: slideInOld 1.5s ease-in-out reverse forwards;
+    animation-delay: 0s;
+}
+
+.invisible{
+    visibility: hidden  !important;
+}
+.visible{
+    visibility: visible !important;
+}
+
+@keyframes slideOut {
+    0% {
+        visibility: visible;
+        top : 100vh;
+    }
+    50% {
+    
+        top : 7vh;
+    }
+
+    80% {
+    
+        top : 7vh;
+    }
+    
+    100% {
+        top : -30vh;
+        visibility: visible !important;
+    }
+}
+
+@keyframes slideInOld {
+    0% {
+        visibility: visible;
+        top : 100vh;
+    }
+    100% {
+        top : -30vh;
+    }
+}
+
+@keyframes slideIn {
+    0% {
+        visibility: visible;
+        top : -30vh;
+    }
+    50% {
+    
+        top : 60vh;
+    }
+
+    80% {
+    
+        top : 60vh;
+    }
+    
+    100% {
+        top : 100vh;
+    }
+}
