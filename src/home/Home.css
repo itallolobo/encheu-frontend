@@ -1,0 +1,159 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Home-water-section-1{
+    height: 270px;
+    position: relative;
+}
+.Home-water-section-1-wave{
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+}
+.Home-water-section-1-ruler{
+    position: absolute;
+    top: 70px;
+    left: 66px;
+    width: 33px;
+    height: auto;
+    z-index: -1;
+}
+
+
+
+.Home-water-section2{
+    position: relative;
+    background-color: #40b3db;
+    color: #fff;
+    
+}
+.Home-water-section2-text{
+    padding: 25px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+    font-weight: 900;
+}
+.Home-water-section2-text > h2{
+    font-size: xx-large;
+    margin: 0;
+    font-weight: 900 !important;
+    line-height: 1.6;
+}
+
+
+
+.Home-water-section3{
+    position: relative;
+    background-color: #319FBC;
+    color: #fff;
+    
+}
+.Home-water-section3-text{
+    margin-top: 0px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+.Home-water-section3-text > h3{
+    padding: 25px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-size: x-large;
+    margin : 0;
+    padding-bottom: 35px;
+    padding-top: 45px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+
+
+
+
+.Home-water-section4{
+    position: relative;
+    background-color: #2690A8;
+    color: #fff;
+    
+}
+.Home-water-section4-text{
+    margin: 0px;
+    margin-top: 0px;
+    font-weight: 900;
+
+}
+.Home-water-section4-text > h3{
+    padding: 25px;
+    font-size: x-large;
+    margin : 0;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    font-weight: 700 !important;
+    line-height: 1.2;
+}
+.Home-water-section4-text > h4{
+    font-size: x-large;
+    margin : 0;
+    margin-bottom: 40px;
+    font-weight: 400 !important;
+    line-height: 1.2;
+}
+
+
+
+.Home-water-section5{
+    position: relative;
+    background-color: #17829A;
+    color: #fff;
+    
+}
+.Home-water-section5-text{
+    margin: 20px;
+    margin-top: 0px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+.Home-water-section5-text > h3{
+    font-size: x-large;
+    margin : 0;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    font-weight: 700 !important;
+    line-height: 1.2;
+}
+.Home-water-section5-text > h4{
+    font-size: x-large;
+    margin : 0;
+    margin-bottom: 40px;
+    font-weight: 400 !important;
+    line-height: 1.2;
+}
+
+.Home-water-bottom{
+    position: relative;
+    background-color: #17829A;
+    color: #fff;
+    
+}
+.Home-water-bottom{
+    margin-top: 0px;
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+
+.Home-water-bottom-section-1{
+    position: relative;
+    margin-bottom: -10px;
+    
+    
+}
+
+.Home-water-bottom-section-2{
+    height: 40px;
+    background-color: #BC8E65;  
+}
+
